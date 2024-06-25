@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">/calculator<br>/cal<br>example command </p> /calculator <num> + <num>
+<p align="left">/calculator<br>/cal<br>example command <br>/calculator <number> + <number></p>
 
 ###
 
