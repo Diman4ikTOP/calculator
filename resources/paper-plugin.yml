@@ -1,0 +1,10 @@
+name: Calculator
+version: '${project.version}'
+main: tg.outfirstplugin.Calculator
+api-version: '1.20'
+authors: [presetf]
+
+commands:
+  calculator:
+    description: Описание вашей команды
+    usage: /<command>
